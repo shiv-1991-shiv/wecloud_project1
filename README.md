@@ -3,7 +3,10 @@
 # Team members: Shivam Tayal and Smitkumar Patel
 # Public URL: https://github.com/shiv-1991-shiv/wecloud_project1.git
 #Architectural diagram![image](https://github.com/shiv-1991-shiv/wecloud_project1/assets/141082654/01a39de3-91ee-429d-8120-79ed531b9bf6)
-
+# Instructions to run the script:
+# 1. Download the file
+# 2. Using the Linux command line, change the permissions of the file linux_server_on_aws.sh to 755, using chmod 755 filename
+# 3. Execute the script using ./linux_server_on_aws.sh
 
 #!/bin/bash
 
