@@ -2,7 +2,7 @@
 # Bash shell script that will create AWS infrastructure as per the requirement
 # Team members: Shivam Tayal and Smitkumar Patel
 # Public URL: https://github.com/shiv-1991-shiv/wecloud_project1.git
-#![image](https://github.com/shiv-1991-shiv/wecloud_project1/assets/141082654/01a39de3-91ee-429d-8120-79ed531b9bf6)
+#Architectural diagram![image](https://github.com/shiv-1991-shiv/wecloud_project1/assets/141082654/01a39de3-91ee-429d-8120-79ed531b9bf6)
 
 
 #!/bin/bash
